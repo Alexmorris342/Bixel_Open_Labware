@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="docubricks.xsl"?>
+<docubricks>
+  <part id="50301520">
+    <name>Neopixel Matrix</name>
+    <description>8x8 - 64 RGB LED Pixel Matrix
+
+Note that in the US, the part can be sourced from Adafruit  (https://www.adafruit.com/product/1487)</description>
+    <supplier>Adafruit / Farnell</supplier>
+    <supplier_part_num>MK00278</supplier_part_num>
+    <manufacturer_part_num>1487</manufacturer_part_num>
+    <url>http://cpc.farnell.com/adafruit-industries/1487/neomatrix-8x8-rgb-neopixel-led/dp/MK00278?ost=8x8+led+matrix&amp;DM_PersistentCookieCreated=true&amp;categoryId=700000008197&amp;iscrfnonsku=false</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./usdata/Neopixel Matrix.jpg" />
+    </media>
+    <manufacturing_instruction />
+  </part>
+  <part id="95603969">
+    <name>Adafruit Feather 32u4</name>
+    <description>The Feather 32u4 is a range of development boards from Adafruit. The Adafruit Feather 32u4 Bluefruit has all the basic features shared by all the Feather 32u4 range together with a built-in Bluetooth Low Energy module (BLE). The module used is the Bluefruit LE and includes two status indicator LEDs.
+
+Note that in the US, the part can be sourced from Adafruit  (https://www.adafruit.com/product/2829)</description>
+    <supplier>RS / Adafruit / Cool Components</supplier>
+    <supplier_part_num>124-5513</supplier_part_num>
+    <manufacturer_part_num>2829</manufacturer_part_num>
+    <url>http://uk.rs-online.com/web/p/processor-microcontroller-development-kits/1245513/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./usdata/Adafruit Feather 32u4.jpg" />
+    </media>
+    <manufacturing_instruction />
+  </part>
+  <part id="583114256">
+    <name>USB cable</name>
+    <description>USB Cable, Male USB A to Female USB A, USB 2.0
+Note that in the US, the part can be sourced from Adafruit  (https://www.adafruit.com/product/592)</description>
+    <supplier>RS / Adafruit / Cool Components</supplier>
+    <supplier_part_num>121-3247</supplier_part_num>
+    <manufacturer_part_num />
+    <url>http://uk.rs-online.com/web/p/usb-cable-assemblies/1213247/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="119969375">
+    <name>Jumper wire</name>
+    <description>10 piece Breadboard Jumper Wire Kit
+
+Note that in the US, the part can be sourced e.g. from Adafruit  (https://www.adafruit.com/product/1951)</description>
+    <supplier>RS / Adafruit / Cool Components</supplier>
+    <supplier_part_num>791-6454</supplier_part_num>
+    <manufacturer_part_num>MIKROE-512</manufacturer_part_num>
+    <url>http://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916454/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="420504483">
+    <name>Diffuser paper 72mm x 72mm</name>
+    <description>White Light Diffuse Paper Sheet; this is a high temp resistant gel for photo studio light or stage lighting 
+
+Note that in the US, the part can be sourced from Amazon USA (https://www.amazon.com/AbleDIY-Translucent-Plastic-Diffuser-Background/dp/B00XJT7N9A/ref=sr_1_3?ie=UTF8&amp;qid=1507043538&amp;sr=8-3&amp;keywords=DIFFUSER+SHEET)</description>
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url>https://www.amazon.co.uk/Rocwing-Photo-Studio-Light-Diffuse/dp/B007RAIV3E/ref=sr_1_cc_1?s=aps&amp;ie=UTF8&amp;qid=1507042575&amp;sr=1-1-catcorr&amp;keywords=DIFFUSER+FILM</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="954749677">
+    <name>Amber Filter 35mm x 35mm</name>
+    <description>Amber coloured acylic sheet (ToDo specify absorption requirements!)
+
+Note that in the US, the part can be sourced from McMasterCarr / Acylite (https://www.mcmaster.com/#85635k461/=19nhub9)</description>
+    <supplier>Plastic People</supplier>
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url>https://www.theplasticpeople.co.uk/products/plastic-types/coloured-acrylic-(perspex)/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="933765572">
+    <name>Blue Filter 72mm x 72mm</name>
+    <description>Transparent, blue and UV absorbent acrylic sheet.
+
+Note that in the US, the part can be sourced from Evonic / Acylite (https://www.acrylite-shop.com/US/us/extruded-f0p5v3qaql1/acrylite-extruded-ff-blue-5c028-gt-lxhoo6bdbi~p.html?know=search%3A5C028GT</description>
+    <supplier>Plastic People</supplier>
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url>https://www.theplasticpeople.co.uk/products/plastic-types/coloured-acrylic-(perspex)/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="486443115">
+    <name>Cardboard for custom enclosure</name>
+    <description />
+    <supplier>Your recycle bin</supplier>
+    <supplier_part_num>just a piece of cardboard</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="605332862">
+    <name>PCR strips</name>
+    <description>ToDo Add more detail!</description>
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="1160058965">
+    <name>Cell-free extract</name>
+    <description>ToDo Add more detail!</description>
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="307861085">
+    <name>Battery-pack</name>
+    <description>ToDo Add more detail!</description>
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="508000078">
+    <name>Controll software</name>
+    <description />
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./usdata/ArdPrintf.h" />
+      <file url="./usdata/Bixel.ino" />
+      <file url="./usdata/BluefruitConfig.h" />
+    </media>
+    <manufacturing_instruction />
+  </part>
+  <part id="3627441">
+    <name>USB to a mini usb cable</name>
+    <description>ToDo More detail and supplier!</description>
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <brick id="372140810">
+    <name>Bixel Cell-free Bio-Display</name>
+    <abstract>Bixels is an affordable and accessible toolkit to allow everyone to design, create and monitor their own DNA programed display.</abstract>
+    <long_description>Biology today is like computing in the late 1980s, simply awaiting an explosion of innovation. Technologies are developing faster than ever but some key platform technologies are still missing. People need to be able to access biology at an affordable price, in their own homes or workplaces and without enormous infrastructure. Bixels enables you to build your own fluorescent protein 8x8 bio-displays. It also allows you to use it as your small material-test board, allows to write your own code/apps to create bio-gifs or to visualize your your own protocols…. Build your own and share your ideas with us.</long_description>
+    <notes>Get your pre-made Bixel here [ToDo]
+Get your Bixel cardboard here [ToDo]
+Get your cell-free green fluorescent proteins here.[ToDo]</notes>
+    <license>CERN Open Hardware License</license>
+    <media>
+      <file url="./usdata/Bixel.png" />
+      <file url="./usdata/0-Bixel - DIY Cell-free Displays.mp4" />
+    </media>
+    <assembly_instruction>
+      <step>
+        <description>First lets create our box. We created a pdf for you to be able to either lasercut your parts or to print it on a A3 and cut it out by hand.</description>
+        <media />
+        <component quantity="1" id="1584757221" />
+      </step>
+      <step>
+        <description>Bixel is a digital tool that you can controll from your phone or tablet. Put together the electronic and optical components to make it work.</description>
+        <media />
+        <component quantity="1" id="634154099" />
+      </step>
+      <step>
+        <description>There are many ways to use Bixel in your projects. See use cases below for some ideas and have fun!</description>
+        <media />
+      </step>
+    </assembly_instruction>
+    <author id="1978260633" />
+    <author id="1018414969" />
+    <function id="1584757221">
+      <description />
+      <implementation type="brick" quantity="1" id="1690875349" />
+    </function>
+    <function id="634154099">
+      <description />
+      <implementation type="brick" quantity="0" id="1632154196" />
+    </function>
+    <instruction name="Use cases">
+      <step>
+        <description>It is quite neat that the colors of the app are similar to different potential expressions with GfP (green fluorescent protein). In our case we used green for a green fluorescent GfP. Here the link to the cell-free part of our tutorial.
+ToDo Add the link!</description>
+        <media>
+          <file url="./usdata/GfP application.png" />
+        </media>
+      </step>
+      <step>
+        <description>Use it to design your 8x8 pixel display
+ToDo EMBED https://vimeo.com/212755191</description>
+        <media />
+      </step>
+      <step>
+        <description>Use it as an educational tool
+ToDo EMBED https://vimeo.com/212755100</description>
+        <media />
+      </step>
+      <step>
+        <description>Turn your bixel into a transilluminator (1/2)
+The kit includes 3 filters. An amber filter, blue filter and and a diffuser.
+We already mounted our amber filter into our filter box. To turn the main box into a transilluminator. Layer the blue filter and diffuser on top of the LED matrix and place your PCR matrix on top.
+Slide the filter box on top of the main box and turn the LEDs to blue. You can either excite single tubes or excite all in once.</description>
+        <media>
+          <file url="./usdata/transilluminator.mp4" />
+        </media>
+      </step>
+      <step>
+        <description>(2/2) If you look now through the orange filter you will only see your fluorescent proteins glow! We love to use either our phone to capture it or for timelapses a simple web-cam. Here a protocol ‘How to build a timelapse with a web-cam’ (http://designbio.co.uk/blog/raspi-timelapse).</description>
+        <media>
+          <file url="./usdata/Transilluminator.png" />
+        </media>
+      </step>
+    </instruction>
+  </brick>
+  <brick id="1690875349">
+    <name>Bixel display box</name>
+    <abstract>Cardboard box with optical filters</abstract>
+    <long_description>This brick describes the manufacture of the cardbord box with filters and tubes. We created a pdf for you to be able to either lasercut your parts or to print it on a A3 and cut it out by hand. We suggest you to use a non see-through cardboard. Test it out beforehand and hold it against the light.</long_description>
+    <notes />
+    <license />
+    <media />
+    <assembly_instruction>
+      <step>
+        <description>If you want to use lasercutting to create the enclosure, use the PDF here. The red lines are for engraving the cardboard to easier fold it. The black lines are cuts. We suggest to test your two settings in a small corner beforehand.</description>
+        <media>
+          <file url="./usdata/lasercut_bixels.pdf" />
+        </media>
+      </step>
+      <step>
+        <description>If you want to hand-cut the enclosure, use the PDF here. Print it on an A4 paper and mount it on a thicker cardboard. You don’t want anything moving. We suggest to use spray-mount for it. To make the holes in the PCR matrix use a hole puncher. It is much more painful than laser-cutting but possible.</description>
+        <media>
+          <file url="./usdata/bixels-hand cut.pdf" />
+        </media>
+      </step>
+      <step>
+        <description>Folding the boxes
+Bixels is made of 3 parts. The main box for the electronics, the filterbox to turn it into a transilluminator and our PCR matrix to hold your PCR strips in place. Watch the video to see how the box is folded.</description>
+        <media>
+          <file url="./usdata/folding main box.mp4" />
+        </media>
+        <component quantity="1" id="2117606690" />
+      </step>
+      <step>
+        <description>Now let’s fold the filter box:
+Glue the orange filter first - that makes it easier (see video).</description>
+        <media>
+          <file url="./usdata/making filter box.mp4" />
+        </media>
+        <component quantity="1" id="38977189" />
+      </step>
+      <step>
+        <description>The PCR matrix is designed to fit perfect with PCR strips and places each PCR tube right on top of each LED. Fill the matrix when you are ready to make your experiment to ensure they are stil sterile.</description>
+        <media>
+          <file url="./usdata/PCR matrix.jpg" />
+        </media>
+        <component quantity="1" id="510107064" />
+      </step>
+    </assembly_instruction>
+    <function id="38977189">
+      <description>Optical filters</description>
+      <implementation type="part" quantity="1" id="420504483" />
+      <implementation type="part" quantity="1" id="954749677" />
+      <implementation type="part" quantity="1" id="933765572" />
+    </function>
+    <function id="2117606690">
+      <description />
+      <implementation type="part" quantity="1" id="486443115" />
+    </function>
+    <function id="510107064">
+      <description />
+      <implementation type="part" quantity="1" id="605332862" />
+    </function>
+    <instruction name="Testing">
+      <step>
+        <description>ToDo is there an easiy way to test if your filter-box is working as it should?</description>
+        <media />
+      </step>
+    </instruction>
+  </brick>
+  <brick id="1632154196">
+    <name>Electronics</name>
+    <abstract>Electronic controller and lights for Bixel</abstract>
+    <long_description>One of the best ways to create open-source electronic prototypes for interactive electronic objects is Arduino. If you are not familiar with Arduino, you can find a first introduction here: http://www.instructables.com/id/Intro-to-Arduino/.
+In our case we will use the Bluefruit Feather 32u4 which is an Arduino compatible board from Adafruit, another very useful open-source platform and supplier for DIY electronics and kits.
+The Bluefruit Feather 32u4 is particular useful for small devices controlled by your smartphone to send and receive data. We are using the Adafruit NeoPixel NeoMatrix for our 8x8 bio-pixels display, another very popular item from Adafruit and just one possible form factor from many (https://www.adafruit.com/category/168).</long_description>
+    <notes>Before you begin, here some useful links: 
+NeoPixel Uberguide (https://learn.adafruit.com/adafruit-neopixel-uberguide)
+Adafruit Feather 32u4 Bluefruit LE (https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le)
+Battery Powering Wearable Electronics (https://learn.adafruit.com/battery-powering-wearable-electronics)
+Adafruit Guide to Excellent Soldering (https://learn.adafruit.com/adafruit-guide-excellent-soldering)</notes>
+    <license />
+    <media />
+    <assembly_instruction>
+      <step>
+        <description>Powering Bixels
+To make bixel portable we use a power USB cable which can be plugged into the wall or be connected to a battery-pack. You will need a 3500mA battery  pack / USB charger and the device can’t be driven by your laptop USB port.</description>
+        <media />
+        <component quantity="1" id="634028993" />
+        <component quantity="1" id="1862497656" />
+        <component quantity="1" id="1317584381" />
+      </step>
+      <step>
+        <description>Wiring up Bixels 
+So, let’s wire all parts together. Only 3 connections are required to run the LED matrix: power, ground, and the Neopixel data pin to send data from the Adafruit Feather 32u4 to the NeoPixel Matrix. 
+For this project, we will use the default Neopixel control pin, D6, on the Adafruit Feather 32u4 .
+To power our 64 LEDs and our Adafruit Feather 32u4  we will use the USB power cable and slight modify it.</description>
+        <media />
+        <component quantity="1" id="958426063" />
+      </step>
+      <step>
+        <description>We soldered 2 female jumper wires on GND and as well the 5V cable of the USB cable to be able to disassemble bixels.
+To connect all cables, we soldered on the GND, 5V and DIN of the Neopixel Matrix the headers provided by the feather Adafruit Neopixel board and a header on the USB, GND and pin6 of the Adafruit Feather 32u4. We used a female to female jumper wire to connect PIN6 to DIN.</description>
+        <media>
+          <file url="./usdata/Wiring up Bixels.png" />
+        </media>
+      </step>
+      <step>
+        <description>Arduino set-up for Adafruit Feather 32u4 
+If you haven’t done it already, download the newest Arduino IDE (https://www.arduino.cc/en/Main/Software) version. Next we have to set up our Bluefruit Feather Board for Arduino as described here (https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup) and install the boards with the Board Manager as described here (https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/using-with-arduino-ide) and install the adafruit driver.</description>
+        <media />
+      </step>
+      <step>
+        <description>Before uploading our sketch install the BLE library as described here (https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/installing-ble-library)</description>
+        <media />
+        <component quantity="1" id="1892249852" />
+      </step>
+      <step>
+        <description>Uploading Arduino sketch 
+use the bixel controll software from the parts list of this documentation and open the file bixel.ino which is inside the folder. It’s time to upload your code onto your device. Connect the Adafruit Feather 32u4 to your laptop with a Mini-USB to USB cable into your laptop and choose the correct port inside your Arduino window. Click upload!</description>
+        <media>
+          <file url="./usdata/upload arduino code (1).png" />
+          <file url="./usdata/upload arduino code (2).png" />
+        </media>
+        <component quantity="1" id="1555592690" />
+      </step>
+      <step>
+        <description>And wait till it got successfully uploaded. It should look like something like this.</description>
+        <media>
+          <file url="./usdata/Arduino upload complete.png" />
+        </media>
+      </step>
+      <step>
+        <description>App to control your pixels and to design your Bixels
+Now let’s get started to be able to control the LEDs.First download the Adafruit Bluefruit LE Connect App on your smartphone. The app is available for iOS (https://learn.adafruit.com/bluefruit-le-connect-for-ios/settings) and Android (google app strore).
+(1) Open the app and connect to your device Adafruit Bluefruit LE.
+(2) Choose the NeoPixel icon in the bottom line and press OK when it gives your a notice.
+(3) Next we have to choose the correct matrix layout. Click the settings button at the top, next to the word ‘NeoPixel’ and choose ‘8x8’.
+(4) Press ‘Connect’ and your LED’s should turn on.
+
+Now you are ready to control your pixels.</description>
+        <media>
+          <file url="./usdata/connecting the app (1).png" />
+          <file url="./usdata/connecting the app (2).png" />
+          <file url="./usdata/connecting the app (3).png" />
+          <file url="./usdata/connecting the app (4).png" />
+        </media>
+      </step>
+    </assembly_instruction>
+    <function id="634028993">
+      <description />
+      <implementation type="part" quantity="1" id="50301520" />
+    </function>
+    <function id="958426063">
+      <description />
+      <implementation type="part" quantity="1" id="95603969" />
+    </function>
+    <function id="1862497656">
+      <description />
+      <implementation type="part" quantity="1" id="583114256" />
+    </function>
+    <function id="1365899462">
+      <description />
+      <implementation type="part" quantity="3" id="119969375" />
+    </function>
+    <function id="1317584381">
+      <description />
+      <implementation type="part" quantity="1" id="307861085" />
+    </function>
+    <function id="1892249852">
+      <description>Controll Software</description>
+      <implementation type="part" quantity="0" id="508000078" />
+    </function>
+    <function id="1555592690">
+      <description />
+      <implementation type="part" quantity="0" id="3627441" />
+    </function>
+  </brick>
+  <author id="1978260633">
+    <name>Helene Steiner</name>
+    <email />
+    <orcid />
+    <affiliation>Royal College of Art</affiliation>
+  </author>
+  <author id="1018414969">
+    <name>Thomas Meany</name>
+    <email />
+    <orcid />
+    <affiliation>Cell-free Technologies Ltd.</affiliation>
+  </author>
+</docubricks>
